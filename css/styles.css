@@ -1,4 +1,6 @@
 
+
+html, body {width: auto!important; overflow-x: hidden!important}
 body {
     text-align: center !important;
 font-family: Montserrat !important;
