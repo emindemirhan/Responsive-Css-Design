@@ -172,6 +172,9 @@ padding: 4% 8%;
 
 @media (max-width: 995px) {
 
+    .h1des {
+        font-size: 2rem;}
+
 
  
 body { line-height: 0;
