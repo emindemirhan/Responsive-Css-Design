@@ -1,5 +1,5 @@
 
-
+html, body {width: auto!important; overflow-x: hidden!important} 
 body {
     text-align: center !important;
 font-family: Montserrat !important;
@@ -10,6 +10,7 @@ font-family: Montserrat !important;
   font-size: 5rem;
   color: white;
   padding-top: 15%;
+    text-align: center !important;
 }
 
 h3 {
@@ -172,7 +173,7 @@ padding: 4% 8%;
 @media (max-width: 995px) {
 
 
-body {width: auto!important; overflow-x: hidden!important} 
+ 
 body { line-height: 0;
   text-align: center !important;
  font-size: 0.3rem;}
