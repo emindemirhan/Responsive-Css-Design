@@ -1,0 +1,187 @@
+
+body {
+    text-align: center !important;
+font-family: Montserrat !important;
+}
+.h1des {
+  font-family: 'Montserrat', sans-serif;
+  line-height: 1.5;
+  font-size: 5rem;
+  color: white;
+  padding-top: 15%;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+#fs-1 {
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  font-size: 4rem;
+  line-height: 1.5;
+ }
+
+p {
+  color: #8f8f8f;
+}
+
+.container-xxl {
+  padding: 3% 15% 1%;
+}
+
+#iphone {
+  transform: rotate(25deg);
+  width: 50%;
+  position: relative;
+  top: 115px;
+  left: 10%;
+  ;
+  position: relative;
+}
+
+#title {
+  background-color: #ff4c68;
+}
+
+#pd3 {
+  padding-right: 15px;
+}
+
+#button-head {
+  color: #f9fafb;
+  border-color: #f9fafb;
+}
+
+#but1 {
+  font-size: 1.8rem;
+  margin: 5% 3% 5% 0%;
+font-family: 'Montserrat', sans-serif;
+}
+
+#but2 {
+  font-size: 1.8rem;
+  margin: 5% 3% 5% 0%;
+font-family: 'Montserrat', sans-serif;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+/* Feature Section */
+#features {
+  padding: 2% 7%;
+  background-color: white;
+  position: relative;
+}
+
+.feature-box {
+  padding: 5%;
+}
+
+.iconf {
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+.iconf:hover {
+  color: #ff4c68;
+}
+
+/* Testimonials Section */
+#testimonials {
+  background-color: #ef8172;
+}
+
+.testimonial-image {
+  border-radius: 100%;
+  width: 15%;
+  margin-left: 131px;
+  margin-bottom: 55px;
+}
+
+#press {
+  background-color: #ef8172;
+  padding-bottom: 3%;
+}
+
+.press-images {
+  padding: 3%;
+  width: 18%;
+}
+
+.testimonial-text {
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  font-size: 4rem;
+  line-height: 1.5;
+}
+h3{
+
+}
+.carousel-item {
+  padding: 5% 9%;
+}
+
+#pricing {
+  padding: 100px;
+}
+
+.my-0 {
+  font-family: 'Montserrat', sans-serif;
+  line-height: 1.5
+}
+
+.pricing-colmm {
+  padding: 3% 2%;
+}
+
+#cta {
+background-color: #ff4c68;
+padding: 7% 14%;
+}
+
+#h3-cta {
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  font-size: 5rem;
+  line-height: 1.5;
+}
+
+.btn-cta {
+  font-size: 1.8rem !important;
+  margin: 4% 3% 4% 0%;
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+
+.social-icons {
+padding: 3% 15% 1%;
+padding: 4% 8%;
+}
+
+.socialicons {
+  padding: 1%;
+   font-size: 2rem !important;
+}
+
+
+@media (max-width: 995px) {
+
+body { line-height: 0;
+   font-size: 0.5rem;}
+
+  #iphone {
+    transform: rotate(0deg);
+    position: static;
+    }
+
+    #title {
+      text-align: center;
+    }
+#for-mobile {
+  font-size: 1.10rem;
+}
+}
