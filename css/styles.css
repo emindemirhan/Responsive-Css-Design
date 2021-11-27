@@ -172,7 +172,8 @@ padding: 4% 8%;
 @media (max-width: 995px) {
 
 body { line-height: 0;
-   font-size: 0.3rem;}
+  text-align: center !important;
+ font-size: 0.3rem;}
 
   #iphone {
     transform: rotate(0deg);
